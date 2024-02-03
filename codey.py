@@ -1,4 +1,6 @@
-
+##  RULSE //
+     ## cant pick < 1 cant put > 12
+        # if jar has 9 coockies UCanPut 3,,, but if you gonna put 4 code return  print('Excess of ',depositeCookie,'cookie ')
 def main():
     
     jar = 12
